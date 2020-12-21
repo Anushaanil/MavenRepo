@@ -9,8 +9,8 @@ public class Calci {
 		return n1-n2;
 	}
 	public static void main(String[] args) {
-		System.out.println(add(10,20));
-		System.out.println(subs(90,10));
+		System.out.println("Sum= "+add(10,20));
+		System.out.println("Difference= "+subs(90,10));
 	}
 
 }
